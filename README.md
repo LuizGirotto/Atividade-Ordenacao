@@ -1,1 +1,2 @@
 # Atividade-Ordenacao
+Atividade voltada a demonstrar as maneiras de ordenar arquivos, nela esta contido QuickSort e BubbleSort, onde Quick sorte acaba se tornando mais interessante, uma vez que o QuickSort possui um pivo, o qual separa o que deve ser ordenado em 2 "grupos" onde cada elemento dos grupos sao comparados com o pivo, se for menor que o pivo, o elemento vai a direita do pivo, caso contrario vai a esquerda do pivo, no momento em que nao se encontra mais elementos maiores ou menores que o pivo, o pivo e trocado, repetindo assim o mesmo ciclo explicado ateriormente.
